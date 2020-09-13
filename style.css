@@ -9,7 +9,7 @@ html {
   }
 
 .parallax {
-    background: url("/image/section-skills-bg.jpg");
+    background: url("image/section-skills-bg.jpg");
     min-height: 500px; 
     background-attachment: fixed;
     background-position: center;
