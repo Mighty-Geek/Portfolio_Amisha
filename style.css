@@ -173,11 +173,11 @@ width: 120px;
     padding: 1rem;
     border-radius: 2px;
     content: attr(data-description); 
-    white-space: pre-wrap;
+    white-space: pre;
   }
 
   .card img {
-    width: 80%;
+    width: 100%;
   }
 
   .card h2 {
