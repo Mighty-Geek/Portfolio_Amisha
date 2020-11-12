@@ -173,7 +173,7 @@ width: 120px;
     padding: 1rem;
     border-radius: 2px;
     content: attr(data-description); 
-    display: block;
+    display: inline-block;
   }
 
   .card img {
@@ -210,12 +210,12 @@ width: 120px;
   }
 
   .modal-inner {
-    max-width: 600px;
-    min-width: 400px;
+    max-width: 450px;
+    min-width: 330px;
     padding: 2rem;
     border-radius: 5px;
     min-height: 400px;
-    max-height: 500px;
+    max-height: 570px;
     background: white;
     transform: translateY(-200%);
     transition: transform 2s;
