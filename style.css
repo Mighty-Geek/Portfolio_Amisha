@@ -173,7 +173,7 @@ width: 120px;
     padding: 1rem;
     border-radius: 2px;
     content: attr(data-description); 
-    display: inline-block;
+    white-space: pre-wrap;
   }
 
   .card img {
